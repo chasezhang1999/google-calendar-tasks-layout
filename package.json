@@ -1,0 +1,6 @@
+{
+  "name": "google-calendar-tasks-layout",
+  "private": true,
+  "scripts": { "test": "node --test startup.test.cjs" },
+  "devDependencies": { "jsdom": "26.1.0" }
+}
