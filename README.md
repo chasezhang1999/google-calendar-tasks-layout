@@ -33,8 +33,7 @@
 
 ## 安装和更新
 
-1. 打开 Tampermonkey 控制面板，点「添加新脚本」（以后更新就点开「Google 日历 Tasks 侧边栏」），
-   把 `google-calendar-tasks-layout.user.js` 的全部内容粘贴进去替换原有内容，按 Ctrl+S 保存。
+1. **一键安装 / 更新**：在装有 Tampermonkey 的浏览器里直接打开 [`google-calendar-tasks-layout.user.js` (Raw)](https://raw.githubusercontent.com/chasezhang1999/google-calendar-tasks-layout/main/google-calendar-tasks-layout.user.js)，油猴会自动弹出安装或升级界面；日常也可通过 Tampermonkey「检查更新」自动拉取最新版。（手动覆盖：打开 Tampermonkey 控制面板，点「添加新脚本」或点开旧脚本，把 `google-calendar-tasks-layout.user.js` 的全部内容粘贴进去替换原有内容，按 Ctrl+S 保存。）
 2. 刷新日历的 Tasks 页（已安装成应用的日历窗口也一样）。
 
 脚本完全不起作用时：

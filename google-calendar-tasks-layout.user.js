@@ -10,6 +10,10 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_registerMenuCommand
+// @homepageURL  https://github.com/chasezhang1999/google-calendar-tasks-layout
+// @supportURL   https://github.com/chasezhang1999/google-calendar-tasks-layout/issues
+// @updateURL    https://raw.githubusercontent.com/chasezhang1999/google-calendar-tasks-layout/main/google-calendar-tasks-layout.user.js
+// @downloadURL  https://raw.githubusercontent.com/chasezhang1999/google-calendar-tasks-layout/main/google-calendar-tasks-layout.user.js
 // ==/UserScript==
 
 (() => {
